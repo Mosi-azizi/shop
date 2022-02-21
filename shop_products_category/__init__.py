@@ -1,0 +1,1 @@
+default_app_config = 'shop_products_category.apps.ShopProductsCategoryConfig'
